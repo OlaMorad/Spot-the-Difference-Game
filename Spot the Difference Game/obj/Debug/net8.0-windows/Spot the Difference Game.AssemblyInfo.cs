@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Spot the Difference Game")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+5589d2f10a31ef2fa942cd9fc05ff19e967c7104")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f31de6ff6d9d5b08445a2715ee5766a9530df240")]
 [assembly: System.Reflection.AssemblyProductAttribute("Spot the Difference Game")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Spot the Difference Game")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

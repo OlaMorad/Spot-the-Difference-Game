@@ -3,6 +3,7 @@ using System.Drawing;
 using System.Windows.Forms;
 using static Spot_the_Difference_Game.UI.GameForm;
 using Spot_the_Difference_Game.Audio;
+using Spot_the_Difference_Game.logic;
 
 namespace Spot_the_Difference_Game.UI
 {
@@ -21,6 +22,9 @@ namespace Spot_the_Difference_Game.UI
         private string leftClickSoundPath = "Audio\\error.wav";
         private string rightClickSoundPath = "Audio\\success.wav";
 
+        private string image1Path;
+        private string image2Path;
+
         private Bitmap overlayBitmap;
         private Graphics overlayGraphics;
 
@@ -28,6 +32,11 @@ namespace Spot_the_Difference_Game.UI
         {
             level = selectedLevel;
             timerMode = isTimerMode;
+
+            // تحميل الصور المناسبة حسب المستوى
+            LevelImages images = LevelImageProvider.GetImagesForLevel(level);
+            image1Path = images.Image1Path;
+            image2Path = images.Image2Path;
 
             this.Text = "Spot the Differences";
             this.ClientSize = new Size(1000, 600);
@@ -76,7 +85,7 @@ namespace Spot_the_Difference_Game.UI
 
             pictureBox1 = new PictureBox
             {
-                Image = Image.FromFile("Images\\image1.jpg"),
+                Image = Image.FromFile(image1Path),
                 SizeMode = PictureBoxSizeMode.StretchImage,
                 Location = new Point(50, 100),
                 Size = new Size(400, 400)
@@ -84,7 +93,7 @@ namespace Spot_the_Difference_Game.UI
 
             pictureBox2 = new PictureBox
             {
-                Image = Image.FromFile("Images\\image2.jpg"),
+                Image = Image.FromFile(image2Path),
                 SizeMode = PictureBoxSizeMode.StretchImage,
                 Location = new Point(550, 100),
                 Size = new Size(400, 400)
@@ -93,7 +102,6 @@ namespace Spot_the_Difference_Game.UI
             pictureBox1.MouseClick += Picture_MouseClick;
             pictureBox2.MouseClick += Picture_MouseClick;
 
-            // تحضير صورة للرسم عليها فوق pictureBox1 فقط
             overlayBitmap = new Bitmap(pictureBox1.Width, pictureBox1.Height);
             overlayGraphics = Graphics.FromImage(overlayBitmap);
 
@@ -153,15 +161,28 @@ namespace Spot_the_Difference_Game.UI
             var globalPoint = pictureBox.PointToScreen(e.Location);
             var relativeToOverlay = overlayPictureBox.PointToClient(globalPoint);
 
+            bool isCorrect = SimulateCorrectClick(); // سيتم استبدالها لاحقاً بمنطق فعلي
+
             if (e.Button == MouseButtons.Left)
             {
                 AudioPlayer.PlaySoundAsync(leftClickSoundPath);
-                // لا شيء إضافي
             }
             else if (e.Button == MouseButtons.Right)
             {
                 AudioPlayer.PlaySoundAsync(rightClickSoundPath);
                 DrawRedCircle(relativeToOverlay);
+            }
+
+            if (!timerMode && !isCorrect)
+            {
+                attemptsLeft--;
+                UpdateStatus();
+
+                if (attemptsLeft <= 0)
+                {
+                    MessageBox.Show("No more attempts! You lost!");
+                    this.Close();
+                }
             }
         }
 
@@ -177,6 +198,12 @@ namespace Spot_the_Difference_Game.UI
 
             overlayPictureBox.Image = overlayBitmap;
             overlayPictureBox.Refresh();
+        }
+
+        private bool SimulateCorrectClick()
+        {
+            Random rand = new Random();
+            return rand.Next(0, 2) == 1;
         }
     }
 }

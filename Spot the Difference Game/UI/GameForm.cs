@@ -4,7 +4,7 @@ using System.Windows.Forms;
 
 namespace Spot_the_Difference_Game.UI
 {
-    internal class GameForm : Form
+    public class GameForm : Form
     {
         private Label instructionLabel;
         private Button easyButton;
