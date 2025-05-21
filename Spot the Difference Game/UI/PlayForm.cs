@@ -2,7 +2,7 @@
 using System.Drawing;
 using System.Windows.Forms;
 using static Spot_the_Difference_Game.UI.GameForm;
-
+using Spot_the_Difference_Game.Audio;
 
 namespace Spot_the_Difference_Game.UI
 {
@@ -10,13 +10,19 @@ namespace Spot_the_Difference_Game.UI
     {
         private PictureBox pictureBox1;
         private PictureBox pictureBox2;
+        private PictureBox overlayPictureBox;
         private Label statusLabel;
         private System.Windows.Forms.Timer gameTimer;
-        private int timeLeft;     // بالثواني
+        private int timeLeft;
         private int attemptsLeft;
         private bool timerMode;
         private GameLevel level;
 
+        private string leftClickSoundPath = "Audio\\error.wav";
+        private string rightClickSoundPath = "Audio\\success.wav";
+
+        private Bitmap overlayBitmap;
+        private Graphics overlayGraphics;
 
         public PlayForm(GameLevel selectedLevel, bool isTimerMode)
         {
@@ -35,9 +41,9 @@ namespace Spot_the_Difference_Game.UI
             {
                 timeLeft = level switch
                 {
-                    GameLevel.Easy => 3 * 60,
-                    GameLevel.Medium => 6 * 60,
-                    GameLevel.Hard => 10 * 60,
+                    GameLevel.Easy => 180,
+                    GameLevel.Medium => 360,
+                    GameLevel.Hard => 600,
                     _ => 180
                 };
                 StartTimer();
@@ -57,6 +63,17 @@ namespace Spot_the_Difference_Game.UI
 
         private void InitializeComponents()
         {
+            statusLabel = new Label
+            {
+                Font = new Font("Segoe UI", 14, FontStyle.Bold),
+                ForeColor = Color.White,
+                BackColor = Color.Transparent,
+                AutoSize = false,
+                Size = new Size(1000, 40),
+                TextAlign = ContentAlignment.MiddleCenter,
+                Dock = DockStyle.Top
+            };
+
             pictureBox1 = new PictureBox
             {
                 Image = Image.FromFile("Images\\image1.jpg"),
@@ -73,18 +90,19 @@ namespace Spot_the_Difference_Game.UI
                 Size = new Size(400, 400)
             };
 
-            pictureBox1.MouseClick += PictureBox_MouseClick;
-            pictureBox2.MouseClick += PictureBox_MouseClick;
+            pictureBox1.MouseClick += Picture_MouseClick;
+            pictureBox2.MouseClick += Picture_MouseClick;
 
-            statusLabel = new Label
+            // تحضير صورة للرسم عليها فوق pictureBox1 فقط
+            overlayBitmap = new Bitmap(pictureBox1.Width, pictureBox1.Height);
+            overlayGraphics = Graphics.FromImage(overlayBitmap);
+
+            overlayPictureBox = new PictureBox
             {
-                Font = new Font("Segoe UI", 14, FontStyle.Bold),
-                ForeColor = Color.White,
-                BackColor = Color.Transparent,
-                AutoSize = false,
-                Size = new Size(1000, 40),
-                TextAlign = ContentAlignment.MiddleCenter,
-                Dock = DockStyle.Top
+                Image = overlayBitmap,
+                Size = pictureBox1.Size,
+                Location = pictureBox1.Location,
+                BackColor = Color.Transparent
             };
 
             gameTimer = new System.Windows.Forms.Timer();
@@ -94,6 +112,7 @@ namespace Spot_the_Difference_Game.UI
             this.Controls.Add(statusLabel);
             this.Controls.Add(pictureBox1);
             this.Controls.Add(pictureBox2);
+            this.Controls.Add(overlayPictureBox);
         }
 
         private void StartTimer()
@@ -106,7 +125,6 @@ namespace Spot_the_Difference_Game.UI
         {
             timeLeft--;
             UpdateStatus();
-
             if (timeLeft <= 0)
             {
                 gameTimer.Stop();
@@ -119,9 +137,9 @@ namespace Spot_the_Difference_Game.UI
         {
             if (timerMode)
             {
-                int minutes = timeLeft / 60;
-                int seconds = timeLeft % 60;
-                statusLabel.Text = $"Time Left: {minutes:D2}:{seconds:D2}";
+                int min = timeLeft / 60;
+                int sec = timeLeft % 60;
+                statusLabel.Text = $"Time Left: {min:D2}:{sec:D2}";
             }
             else
             {
@@ -129,36 +147,36 @@ namespace Spot_the_Difference_Game.UI
             }
         }
 
-        private void PictureBox_MouseClick(object sender, MouseEventArgs e)
+        private void Picture_MouseClick(object sender, MouseEventArgs e)
         {
-            bool isCorrect = CheckDifference(e.Location); // افتراضي: ليس صحيحًا
+            var pictureBox = sender as PictureBox;
+            var globalPoint = pictureBox.PointToScreen(e.Location);
+            var relativeToOverlay = overlayPictureBox.PointToClient(globalPoint);
 
-            if (!isCorrect)
+            if (e.Button == MouseButtons.Left)
             {
-                if (!timerMode)
-                {
-                    attemptsLeft--;
-                    UpdateStatus();
-                    if (attemptsLeft <= 0)
-                    {
-                        MessageBox.Show("No more attempts! You lost!");
-                        this.Close();
-                    }
-                }
+                AudioPlayer.PlaySoundAsync(leftClickSoundPath);
+                // لا شيء إضافي
             }
-            else
+            else if (e.Button == MouseButtons.Right)
             {
-                MessageBox.Show("Correct!");
-                // تابع اكتشاف الفروقات
+                AudioPlayer.PlaySoundAsync(rightClickSoundPath);
+                DrawRedCircle(relativeToOverlay);
             }
         }
 
-        private bool CheckDifference(Point clickLocation)
+        private void DrawRedCircle(Point location)
         {
-            // لاحقًا: تحقق إن كان النقر في مكان اختلاف فعلي
-            // حالياً: محاكاة عشوائية
-            Random rand = new Random();
-            return rand.Next(0, 2) == 1;
+            int radius = 15;
+            Rectangle circle = new Rectangle(location.X - radius, location.Y - radius, radius * 2, radius * 2);
+
+            using (Pen pen = new Pen(Color.Red, 3))
+            {
+                overlayGraphics.DrawEllipse(pen, circle);
+            }
+
+            overlayPictureBox.Image = overlayBitmap;
+            overlayPictureBox.Refresh();
         }
     }
 }
