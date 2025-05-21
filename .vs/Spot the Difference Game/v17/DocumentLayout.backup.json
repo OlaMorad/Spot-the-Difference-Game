@@ -7,6 +7,10 @@
       "RelativeMoniker": "D:0:0:{D613CC8D-8A17-4063-BF65-BD4C155EE7D9}|Spot the Difference Game\\Spot the Difference Game.csproj|solutionrelative:spot the difference game\\ui\\playform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{D613CC8D-8A17-4063-BF65-BD4C155EE7D9}|Spot the Difference Game\\Spot the Difference Game.csproj|c:\\users\\user\\\u0639\u0645\u0644\u064A \u0645\u0644\u062A\u064A \u0645\u064A\u062F\u064A\u0627\\spot the difference game\\spot the difference game\\ui\\playform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{D613CC8D-8A17-4063-BF65-BD4C155EE7D9}|Spot the Difference Game\\Spot the Difference Game.csproj|solutionrelative:spot the difference game\\ui\\playform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{D613CC8D-8A17-4063-BF65-BD4C155EE7D9}|Spot the Difference Game\\Spot the Difference Game.csproj|c:\\users\\user\\\u0639\u0645\u0644\u064A \u0645\u0644\u062A\u064A \u0645\u064A\u062F\u064A\u0627\\spot the difference game\\spot the difference game\\ui\\modeselectionform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D613CC8D-8A17-4063-BF65-BD4C155EE7D9}|Spot the Difference Game\\Spot the Difference Game.csproj|solutionrelative:spot the difference game\\ui\\modeselectionform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -54,11 +58,11 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 6,
               "Title": "Start_Form.cs",
               "DocumentMoniker": "C:\\Users\\USER\\\u0639\u0645\u0644\u064A \u0645\u0644\u062A\u064A \u0645\u064A\u062F\u064A\u0627\\Spot the Difference Game\\Spot the Difference Game\\UI\\Start_Form.cs",
               "RelativeDocumentMoniker": "Spot the Difference Game\\UI\\Start_Form.cs",
@@ -71,12 +75,24 @@
               "EditorCaption": ""
             },
             {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "PlayForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\USER\\\u0639\u0645\u0644\u064A \u0645\u0644\u062A\u064A \u0645\u064A\u062F\u064A\u0627\\Spot the Difference Game\\Spot the Difference Game\\UI\\PlayForm.cs",
+              "RelativeDocumentMoniker": "Spot the Difference Game\\UI\\PlayForm.cs",
+              "ToolTip": "C:\\Users\\USER\\\u0639\u0645\u0644\u064A \u0645\u0644\u062A\u064A \u0645\u064A\u062F\u064A\u0627\\Spot the Difference Game\\Spot the Difference Game\\UI\\PlayForm.cs [Design]",
+              "RelativeToolTip": "Spot the Difference Game\\UI\\PlayForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-20T22:28:24.568Z",
+              "EditorCaption": " [Design]"
+            },
+            {
               "$type": "Bookmark",
               "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "ModeSelectionForm.cs [Design]",
               "DocumentMoniker": "C:\\Users\\USER\\\u0639\u0645\u0644\u064A \u0645\u0644\u062A\u064A \u0645\u064A\u062F\u064A\u0627\\Spot the Difference Game\\Spot the Difference Game\\UI\\ModeSelectionForm.cs",
               "RelativeDocumentMoniker": "Spot the Difference Game\\UI\\ModeSelectionForm.cs",
@@ -93,14 +109,14 @@
               "RelativeDocumentMoniker": "Spot the Difference Game\\UI\\PlayForm.cs",
               "ToolTip": "C:\\Users\\USER\\\u0639\u0645\u0644\u064A \u0645\u0644\u062A\u064A \u0645\u064A\u062F\u064A\u0627\\Spot the Difference Game\\Spot the Difference Game\\UI\\PlayForm.cs",
               "RelativeToolTip": "Spot the Difference Game\\UI\\PlayForm.cs",
-              "ViewState": "AgIAADYAAAAAAAAAAADgvzwAAAA4AAAAAAAAAA==",
+              "ViewState": "AgIAAJsAAAAAAAAAAAAAAKQAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-05-20T20:19:51.241Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "ModeSelectionForm.cs",
               "DocumentMoniker": "C:\\Users\\USER\\\u0639\u0645\u0644\u064A \u0645\u0644\u062A\u064A \u0645\u064A\u062F\u064A\u0627\\Spot the Difference Game\\Spot the Difference Game\\UI\\ModeSelectionForm.cs",
               "RelativeDocumentMoniker": "Spot the Difference Game\\UI\\ModeSelectionForm.cs",
@@ -112,7 +128,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 9,
               "Title": "Start_Form.cs [Design]",
               "DocumentMoniker": "C:\\Users\\USER\\\u0639\u0645\u0644\u064A \u0645\u0644\u062A\u064A \u0645\u064A\u062F\u064A\u0627\\Spot the Difference Game\\Spot the Difference Game\\UI\\Start_Form.cs",
               "RelativeDocumentMoniker": "Spot the Difference Game\\UI\\Start_Form.cs",
@@ -123,7 +139,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "Spot the Difference Game.csproj",
               "DocumentMoniker": "C:\\Users\\USER\\\u0639\u0645\u0644\u064A \u0645\u0644\u062A\u064A \u0645\u064A\u062F\u064A\u0627\\Spot the Difference Game\\Spot the Difference Game\\Spot the Difference Game.csproj",
               "RelativeDocumentMoniker": "Spot the Difference Game\\Spot the Difference Game.csproj",
@@ -135,7 +151,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "GameForm.cs",
               "DocumentMoniker": "C:\\Users\\USER\\\u0639\u0645\u0644\u064A \u0645\u0644\u062A\u064A \u0645\u064A\u062F\u064A\u0627\\Spot the Difference Game\\Spot the Difference Game\\UI\\GameForm.cs",
               "RelativeDocumentMoniker": "Spot the Difference Game\\UI\\GameForm.cs",
@@ -147,7 +163,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 8,
               "Title": "flowers-276014_1280.jpg - Bitmap [1280x814, 24 bit, JPG]",
               "DocumentMoniker": "C:\\Users\\USER\\\u0639\u0645\u0644\u064A \u0645\u0644\u062A\u064A \u0645\u064A\u062F\u064A\u0627\\Spot the Difference Game\\Spot the Difference Game\\Images\\flowers-276014_1280.jpg",
               "RelativeDocumentMoniker": "Spot the Difference Game\\Images\\flowers-276014_1280.jpg",
@@ -159,7 +175,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 7,
               "Title": "Background.jpg - Bitmap [1366x768, 24 bit, JPG]",
               "DocumentMoniker": "C:\\Users\\USER\\\u0639\u0645\u0644\u064A \u0645\u0644\u062A\u064A \u0645\u064A\u062F\u064A\u0627\\Spot the Difference Game\\Spot the Difference Game\\Images\\Background.jpg",
               "RelativeDocumentMoniker": "Spot the Difference Game\\Images\\Background.jpg",
@@ -171,7 +187,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 10,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\USER\\\u0639\u0645\u0644\u064A \u0645\u0644\u062A\u064A \u0645\u064A\u062F\u064A\u0627\\Spot the Difference Game\\Spot the Difference Game\\Program.cs",
               "RelativeDocumentMoniker": "Spot the Difference Game\\Program.cs",
@@ -183,7 +199,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 11,
               "Title": "Form1.cs [Design]",
               "DocumentMoniker": "C:\\Users\\USER\\\u0639\u0645\u0644\u064A \u0645\u0644\u062A\u064A \u0645\u064A\u062F\u064A\u0627\\Spot the Difference Game\\Spot the Difference Game\\Form1.cs",
               "RelativeDocumentMoniker": "Spot the Difference Game\\Form1.cs",

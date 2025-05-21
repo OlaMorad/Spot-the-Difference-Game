@@ -34,3 +34,8 @@ C:\Users\USER\عملي ملتي ميديا\Spot the Difference Game\Spot the Dif
 C:\Users\USER\عملي ملتي ميديا\Spot the Difference Game\Spot the Difference Game\bin\Debug\net8.0-windows\Images\Background.jpg
 C:\Users\USER\عملي ملتي ميديا\Spot the Difference Game\Spot the Difference Game\bin\Debug\net8.0-windows\Images\image1.jpg
 C:\Users\USER\عملي ملتي ميديا\Spot the Difference Game\Spot the Difference Game\bin\Debug\net8.0-windows\Images\image2.jpg
+C:\Users\USER\عملي ملتي ميديا\Spot the Difference Game\Spot the Difference Game\bin\Debug\net8.0-windows\Audio\error.wav
+C:\Users\USER\عملي ملتي ميديا\Spot the Difference Game\Spot the Difference Game\bin\Debug\net8.0-windows\Audio\failed.wav
+C:\Users\USER\عملي ملتي ميديا\Spot the Difference Game\Spot the Difference Game\bin\Debug\net8.0-windows\Audio\success.wav
+C:\Users\USER\عملي ملتي ميديا\Spot the Difference Game\Spot the Difference Game\obj\Debug\net8.0-windows\Spot the Difference Game.sourcelink.json
+C:\Users\USER\عملي ملتي ميديا\Spot the Difference Game\Spot the Difference Game\obj\Debug\net8.0-windows\Spot_the_Difference_Game.UI.PlayForm.resources

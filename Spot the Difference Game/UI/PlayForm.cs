@@ -17,6 +17,7 @@ namespace Spot_the_Difference_Game.UI
         private bool timerMode;
         private GameLevel level;
 
+
         public PlayForm(GameLevel selectedLevel, bool isTimerMode)
         {
             level = selectedLevel;
@@ -58,7 +59,7 @@ namespace Spot_the_Difference_Game.UI
         {
             pictureBox1 = new PictureBox
             {
-                Image = Image.FromFile("Images\\image1.jpg"), // استبدل باسم الصورة
+                Image = Image.FromFile("Images\\image1.jpg"),
                 SizeMode = PictureBoxSizeMode.StretchImage,
                 Location = new Point(50, 100),
                 Size = new Size(400, 400)
@@ -66,7 +67,7 @@ namespace Spot_the_Difference_Game.UI
 
             pictureBox2 = new PictureBox
             {
-                Image = Image.FromFile("Images\\image2.jpg"), // استبدل باسم الصورة
+                Image = Image.FromFile("Images\\image2.jpg"),
                 SizeMode = PictureBoxSizeMode.StretchImage,
                 Location = new Point(550, 100),
                 Size = new Size(400, 400)
