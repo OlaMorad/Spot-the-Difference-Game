@@ -1,0 +1,417 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\USER\\\u0639\u0645\u0644\u064A \u0645\u0644\u062A\u064A \u0645\u064A\u062F\u064A\u0627\\Spot the Difference Game\\",
+  "Documents": [
+    {
+<<<<<<< HEAD
+      "AbsoluteMoniker": "D:0:0:{D613CC8D-8A17-4063-BF65-BD4C155EE7D9}|Spot the Difference Game\\Spot the Difference Game.csproj|c:\\users\\user\\\u0639\u0645\u0644\u064A \u0645\u0644\u062A\u064A \u0645\u064A\u062F\u064A\u0627\\spot the difference game\\spot the difference game\\logic\\levelimages.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D613CC8D-8A17-4063-BF65-BD4C155EE7D9}|Spot the Difference Game\\Spot the Difference Game.csproj|solutionrelative:spot the difference game\\logic\\levelimages.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D613CC8D-8A17-4063-BF65-BD4C155EE7D9}|Spot the Difference Game\\Spot the Difference Game.csproj|c:\\users\\user\\\u0639\u0645\u0644\u064A \u0645\u0644\u062A\u064A \u0645\u064A\u062F\u064A\u0627\\spot the difference game\\spot the difference game\\ui\\levelimageprovider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D613CC8D-8A17-4063-BF65-BD4C155EE7D9}|Spot the Difference Game\\Spot the Difference Game.csproj|solutionrelative:spot the difference game\\ui\\levelimageprovider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+=======
+      "AbsoluteMoniker": "D:0:0:{D613CC8D-8A17-4063-BF65-BD4C155EE7D9}|Spot the Difference Game\\Spot the Difference Game.csproj|c:\\users\\user\\\u0639\u0645\u0644\u064A \u0645\u0644\u062A\u064A \u0645\u064A\u062F\u064A\u0627\\spot the difference game\\spot the difference game\\ui\\modeselectionform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D613CC8D-8A17-4063-BF65-BD4C155EE7D9}|Spot the Difference Game\\Spot the Difference Game.csproj|solutionrelative:spot the difference game\\ui\\modeselectionform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+>>>>>>> c867f6c (finall)
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D613CC8D-8A17-4063-BF65-BD4C155EE7D9}|Spot the Difference Game\\Spot the Difference Game.csproj|c:\\users\\user\\\u0639\u0645\u0644\u064A \u0645\u0644\u062A\u064A \u0645\u064A\u062F\u064A\u0627\\spot the difference game\\spot the difference game\\ui\\playform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D613CC8D-8A17-4063-BF65-BD4C155EE7D9}|Spot the Difference Game\\Spot the Difference Game.csproj|solutionrelative:spot the difference game\\ui\\playform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D613CC8D-8A17-4063-BF65-BD4C155EE7D9}|Spot the Difference Game\\Spot the Difference Game.csproj|c:\\users\\user\\\u0639\u0645\u0644\u064A \u0645\u0644\u062A\u064A \u0645\u064A\u062F\u064A\u0627\\spot the difference game\\spot the difference game\\ui\\gameform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D613CC8D-8A17-4063-BF65-BD4C155EE7D9}|Spot the Difference Game\\Spot the Difference Game.csproj|solutionrelative:spot the difference game\\ui\\gameform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+<<<<<<< HEAD
+      "AbsoluteMoniker": "D:0:0:{D613CC8D-8A17-4063-BF65-BD4C155EE7D9}|Spot the Difference Game\\Spot the Difference Game.csproj|c:\\users\\user\\\u0639\u0645\u0644\u064A \u0645\u0644\u062A\u064A \u0645\u064A\u062F\u064A\u0627\\spot the difference game\\spot the difference game\\ui\\playform.resx||{81828910-B8B3-4D2B-99A3-067027C180C1}",
+      "RelativeMoniker": "D:0:0:{D613CC8D-8A17-4063-BF65-BD4C155EE7D9}|Spot the Difference Game\\Spot the Difference Game.csproj|solutionrelative:spot the difference game\\ui\\playform.resx||{81828910-B8B3-4D2B-99A3-067027C180C1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D613CC8D-8A17-4063-BF65-BD4C155EE7D9}|Spot the Difference Game\\Spot the Difference Game.csproj|c:\\users\\user\\\u0639\u0645\u0644\u064A \u0645\u0644\u062A\u064A \u0645\u064A\u062F\u064A\u0627\\spot the difference game\\spot the difference game\\audio\\audioplayer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D613CC8D-8A17-4063-BF65-BD4C155EE7D9}|Spot the Difference Game\\Spot the Difference Game.csproj|solutionrelative:spot the difference game\\audio\\audioplayer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D613CC8D-8A17-4063-BF65-BD4C155EE7D9}|Spot the Difference Game\\Spot the Difference Game.csproj|C:\\Users\\USER\\\u0639\u0645\u0644\u064A \u0645\u0644\u062A\u064A \u0645\u064A\u062F\u064A\u0627\\Spot the Difference Game\\spot the difference game\\ui\\start_form.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{D613CC8D-8A17-4063-BF65-BD4C155EE7D9}|Spot the Difference Game\\Spot the Difference Game.csproj|solutionrelative:spot the difference game\\ui\\start_form.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D613CC8D-8A17-4063-BF65-BD4C155EE7D9}|Spot the Difference Game\\Spot the Difference Game.csproj|c:\\users\\user\\\u0639\u0645\u0644\u064A \u0645\u0644\u062A\u064A \u0645\u064A\u062F\u064A\u0627\\spot the difference game\\spot the difference game\\ui\\modeselectionform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D613CC8D-8A17-4063-BF65-BD4C155EE7D9}|Spot the Difference Game\\Spot the Difference Game.csproj|solutionrelative:spot the difference game\\ui\\modeselectionform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+=======
+      "AbsoluteMoniker": "D:0:0:{D613CC8D-8A17-4063-BF65-BD4C155EE7D9}|Spot the Difference Game\\Spot the Difference Game.csproj|c:\\users\\user\\\u0639\u0645\u0644\u064A \u0645\u0644\u062A\u064A \u0645\u064A\u062F\u064A\u0627\\spot the difference game\\spot the difference game\\ui\\start_form.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D613CC8D-8A17-4063-BF65-BD4C155EE7D9}|Spot the Difference Game\\Spot the Difference Game.csproj|solutionrelative:spot the difference game\\ui\\start_form.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D613CC8D-8A17-4063-BF65-BD4C155EE7D9}|Spot the Difference Game\\Spot the Difference Game.csproj|c:\\users\\user\\\u0639\u0645\u0644\u064A \u0645\u0644\u062A\u064A \u0645\u064A\u062F\u064A\u0627\\spot the difference game\\spot the difference game\\logic\\levelimageprovider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D613CC8D-8A17-4063-BF65-BD4C155EE7D9}|Spot the Difference Game\\Spot the Difference Game.csproj|solutionrelative:spot the difference game\\logic\\levelimageprovider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D613CC8D-8A17-4063-BF65-BD4C155EE7D9}|Spot the Difference Game\\Spot the Difference Game.csproj|c:\\users\\user\\\u0639\u0645\u0644\u064A \u0645\u0644\u062A\u064A \u0645\u064A\u062F\u064A\u0627\\spot the difference game\\spot the difference game\\logic\\predefineddifferences.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D613CC8D-8A17-4063-BF65-BD4C155EE7D9}|Spot the Difference Game\\Spot the Difference Game.csproj|solutionrelative:spot the difference game\\logic\\predefineddifferences.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D613CC8D-8A17-4063-BF65-BD4C155EE7D9}|Spot the Difference Game\\Spot the Difference Game.csproj|c:\\users\\user\\\u0639\u0645\u0644\u064A \u0645\u0644\u062A\u064A \u0645\u064A\u062F\u064A\u0627\\spot the difference game\\spot the difference game\\logic\\levelimages.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D613CC8D-8A17-4063-BF65-BD4C155EE7D9}|Spot the Difference Game\\Spot the Difference Game.csproj|solutionrelative:spot the difference game\\logic\\levelimages.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D613CC8D-8A17-4063-BF65-BD4C155EE7D9}|Spot the Difference Game\\Spot the Difference Game.csproj|c:\\users\\user\\\u0639\u0645\u0644\u064A \u0645\u0644\u062A\u064A \u0645\u064A\u062F\u064A\u0627\\spot the difference game\\spot the difference game\\logic\\differencepair.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D613CC8D-8A17-4063-BF65-BD4C155EE7D9}|Spot the Difference Game\\Spot the Difference Game.csproj|solutionrelative:spot the difference game\\logic\\differencepair.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D613CC8D-8A17-4063-BF65-BD4C155EE7D9}|Spot the Difference Game\\Spot the Difference Game.csproj|c:\\users\\user\\\u0639\u0645\u0644\u064A \u0645\u0644\u062A\u064A \u0645\u064A\u062F\u064A\u0627\\spot the difference game\\spot the difference game\\logic\\differencedetector.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D613CC8D-8A17-4063-BF65-BD4C155EE7D9}|Spot the Difference Game\\Spot the Difference Game.csproj|solutionrelative:spot the difference game\\logic\\differencedetector.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D613CC8D-8A17-4063-BF65-BD4C155EE7D9}|Spot the Difference Game\\Spot the Difference Game.csproj|c:\\users\\user\\\u0639\u0645\u0644\u064A \u0645\u0644\u062A\u064A \u0645\u064A\u062F\u064A\u0627\\spot the difference game\\spot the difference game\\logic\\audioplayer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D613CC8D-8A17-4063-BF65-BD4C155EE7D9}|Spot the Difference Game\\Spot the Difference Game.csproj|solutionrelative:spot the difference game\\logic\\audioplayer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+>>>>>>> c867f6c (finall)
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D613CC8D-8A17-4063-BF65-BD4C155EE7D9}|Spot the Difference Game\\Spot the Difference Game.csproj|C:\\Users\\USER\\\u0639\u0645\u0644\u064A \u0645\u0644\u062A\u064A \u0645\u064A\u062F\u064A\u0627\\Spot the Difference Game\\spot the difference game\\ui\\modeselectionform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{D613CC8D-8A17-4063-BF65-BD4C155EE7D9}|Spot the Difference Game\\Spot the Difference Game.csproj|solutionrelative:spot the difference game\\ui\\modeselectionform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+<<<<<<< HEAD
+      "AbsoluteMoniker": "D:0:0:{D613CC8D-8A17-4063-BF65-BD4C155EE7D9}|Spot the Difference Game\\Spot the Difference Game.csproj|c:\\users\\user\\\u0639\u0645\u0644\u064A \u0645\u0644\u062A\u064A \u0645\u064A\u062F\u064A\u0627\\spot the difference game\\spot the difference game\\spot the difference game.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{D613CC8D-8A17-4063-BF65-BD4C155EE7D9}|Spot the Difference Game\\Spot the Difference Game.csproj|solutionrelative:spot the difference game\\spot the difference game.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D613CC8D-8A17-4063-BF65-BD4C155EE7D9}|Spot the Difference Game\\Spot the Difference Game.csproj|c:\\users\\user\\\u0639\u0645\u0644\u064A \u0645\u0644\u062A\u064A \u0645\u064A\u062F\u064A\u0627\\spot the difference game\\spot the difference game\\images\\background.jpg||{177559E0-D141-11D0-92DF-00A0C9138C45}",
+      "RelativeMoniker": "D:0:0:{D613CC8D-8A17-4063-BF65-BD4C155EE7D9}|Spot the Difference Game\\Spot the Difference Game.csproj|solutionrelative:spot the difference game\\images\\background.jpg||{177559E0-D141-11D0-92DF-00A0C9138C45}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D613CC8D-8A17-4063-BF65-BD4C155EE7D9}|Spot the Difference Game\\Spot the Difference Game.csproj|c:\\users\\user\\\u0639\u0645\u0644\u064A \u0645\u0644\u062A\u064A \u0645\u064A\u062F\u064A\u0627\\spot the difference game\\spot the difference game\\images\\flowers-276014_1280.jpg||{177559E0-D141-11D0-92DF-00A0C9138C45}",
+      "RelativeMoniker": "D:0:0:{D613CC8D-8A17-4063-BF65-BD4C155EE7D9}|Spot the Difference Game\\Spot the Difference Game.csproj|solutionrelative:spot the difference game\\images\\flowers-276014_1280.jpg||{177559E0-D141-11D0-92DF-00A0C9138C45}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D613CC8D-8A17-4063-BF65-BD4C155EE7D9}|Spot the Difference Game\\Spot the Difference Game.csproj|c:\\users\\user\\\u0639\u0645\u0644\u064A \u0645\u0644\u062A\u064A \u0645\u064A\u062F\u064A\u0627\\spot the difference game\\spot the difference game\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D613CC8D-8A17-4063-BF65-BD4C155EE7D9}|Spot the Difference Game\\Spot the Difference Game.csproj|solutionrelative:spot the difference game\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D613CC8D-8A17-4063-BF65-BD4C155EE7D9}|Spot the Difference Game\\Spot the Difference Game.csproj|C:\\Users\\USER\\\u0639\u0645\u0644\u064A \u0645\u0644\u062A\u064A \u0645\u064A\u062F\u064A\u0627\\Spot the Difference Game\\spot the difference game\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{D613CC8D-8A17-4063-BF65-BD4C155EE7D9}|Spot the Difference Game\\Spot the Difference Game.csproj|solutionrelative:spot the difference game\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+=======
+      "AbsoluteMoniker": "D:0:0:{D613CC8D-8A17-4063-BF65-BD4C155EE7D9}|Spot the Difference Game\\Spot the Difference Game.csproj|c:\\users\\user\\\u0639\u0645\u0644\u064A \u0645\u0644\u062A\u064A \u0645\u064A\u062F\u064A\u0627\\spot the difference game\\spot the difference game\\ui\\gameform.resx||{81828910-B8B3-4D2B-99A3-067027C180C1}",
+      "RelativeMoniker": "D:0:0:{D613CC8D-8A17-4063-BF65-BD4C155EE7D9}|Spot the Difference Game\\Spot the Difference Game.csproj|solutionrelative:spot the difference game\\ui\\gameform.resx||{81828910-B8B3-4D2B-99A3-067027C180C1}"
+>>>>>>> c867f6c (finall)
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+<<<<<<< HEAD
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "LevelImageProvider.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\\u0639\u0645\u0644\u064A \u0645\u0644\u062A\u064A \u0645\u064A\u062F\u064A\u0627\\Spot the Difference Game\\Spot the Difference Game\\UI\\LevelImageProvider.cs",
+              "RelativeDocumentMoniker": "Spot the Difference Game\\UI\\LevelImageProvider.cs",
+              "ToolTip": "C:\\Users\\USER\\\u0639\u0645\u0644\u064A \u0645\u0644\u062A\u064A \u0645\u064A\u062F\u064A\u0627\\Spot the Difference Game\\Spot the Difference Game\\UI\\LevelImageProvider.cs",
+              "RelativeToolTip": "Spot the Difference Game\\UI\\LevelImageProvider.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAiwBkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-21T12:23:24.944Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "LevelImages.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\\u0639\u0645\u0644\u064A \u0645\u0644\u062A\u064A \u0645\u064A\u062F\u064A\u0627\\Spot the Difference Game\\Spot the Difference Game\\Logic\\LevelImages.cs",
+              "RelativeDocumentMoniker": "Spot the Difference Game\\Logic\\LevelImages.cs",
+              "ToolTip": "C:\\Users\\USER\\\u0639\u0645\u0644\u064A \u0645\u0644\u062A\u064A \u0645\u064A\u062F\u064A\u0627\\Spot the Difference Game\\Spot the Difference Game\\Logic\\LevelImages.cs",
+              "RelativeToolTip": "Spot the Difference Game\\Logic\\LevelImages.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAiwBUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-21T12:13:00.378Z",
+              "EditorCaption": ""
+=======
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "LevelImageProvider.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\\u0639\u0645\u0644\u064A \u0645\u0644\u062A\u064A \u0645\u064A\u062F\u064A\u0627\\Spot the Difference Game\\Spot the Difference Game\\Logic\\LevelImageProvider.cs",
+              "RelativeDocumentMoniker": "Spot the Difference Game\\Logic\\LevelImageProvider.cs",
+              "ToolTip": "C:\\Users\\USER\\\u0639\u0645\u0644\u064A \u0645\u0644\u062A\u064A \u0645\u064A\u062F\u064A\u0627\\Spot the Difference Game\\Spot the Difference Game\\Logic\\LevelImageProvider.cs",
+              "RelativeToolTip": "Spot the Difference Game\\Logic\\LevelImageProvider.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-21T12:23:24.944Z"
+>>>>>>> c867f6c (finall)
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+<<<<<<< HEAD
+=======
+              "Title": "Start_Form.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\\u0639\u0645\u0644\u064A \u0645\u0644\u062A\u064A \u0645\u064A\u062F\u064A\u0627\\Spot the Difference Game\\Spot the Difference Game\\UI\\Start_Form.cs",
+              "RelativeDocumentMoniker": "Spot the Difference Game\\UI\\Start_Form.cs",
+              "ToolTip": "C:\\Users\\USER\\\u0639\u0645\u0644\u064A \u0645\u0644\u062A\u064A \u0645\u064A\u062F\u064A\u0627\\Spot the Difference Game\\Spot the Difference Game\\UI\\Start_Form.cs",
+              "RelativeToolTip": "Spot the Difference Game\\UI\\Start_Form.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACUAAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-23T21:04:00.829Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+>>>>>>> c867f6c (finall)
+              "Title": "GameForm.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\\u0639\u0645\u0644\u064A \u0645\u0644\u062A\u064A \u0645\u064A\u062F\u064A\u0627\\Spot the Difference Game\\Spot the Difference Game\\UI\\GameForm.cs",
+              "RelativeDocumentMoniker": "Spot the Difference Game\\UI\\GameForm.cs",
+              "ToolTip": "C:\\Users\\USER\\\u0639\u0645\u0644\u064A \u0645\u0644\u062A\u064A \u0645\u064A\u062F\u064A\u0627\\Spot the Difference Game\\Spot the Difference Game\\UI\\GameForm.cs",
+              "RelativeToolTip": "Spot the Difference Game\\UI\\GameForm.cs",
+<<<<<<< HEAD
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-20T19:44:13.674Z",
+=======
+              "ViewState": "AgIAADQAAAAAAAAAAAAAACIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-29T09:32:54.711Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ModeSelectionForm.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\\u0639\u0645\u0644\u064A \u0645\u0644\u062A\u064A \u0645\u064A\u062F\u064A\u0627\\Spot the Difference Game\\Spot the Difference Game\\UI\\ModeSelectionForm.cs",
+              "RelativeDocumentMoniker": "Spot the Difference Game\\UI\\ModeSelectionForm.cs",
+              "ToolTip": "C:\\Users\\USER\\\u0639\u0645\u0644\u064A \u0645\u0644\u062A\u064A \u0645\u064A\u062F\u064A\u0627\\Spot the Difference Game\\Spot the Difference Game\\UI\\ModeSelectionForm.cs",
+              "RelativeToolTip": "Spot the Difference Game\\UI\\ModeSelectionForm.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-29T09:34:23.426Z",
+>>>>>>> c867f6c (finall)
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+<<<<<<< HEAD
+              "DocumentIndex": 4,
+              "Title": "PlayForm.resx",
+              "DocumentMoniker": "C:\\Users\\USER\\\u0639\u0645\u0644\u064A \u0645\u0644\u062A\u064A \u0645\u064A\u062F\u064A\u0627\\Spot the Difference Game\\Spot the Difference Game\\UI\\PlayForm.resx",
+              "RelativeDocumentMoniker": "Spot the Difference Game\\UI\\PlayForm.resx",
+              "ToolTip": "C:\\Users\\USER\\\u0639\u0645\u0644\u064A \u0645\u0644\u062A\u064A \u0645\u064A\u062F\u064A\u0627\\Spot the Difference Game\\Spot the Difference Game\\UI\\PlayForm.resx",
+              "RelativeToolTip": "Spot the Difference Game\\UI\\PlayForm.resx",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
+              "WhenOpened": "2025-05-21T10:15:49.455Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+=======
+              "DocumentIndex": 1,
+>>>>>>> c867f6c (finall)
+              "Title": "PlayForm.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\\u0639\u0645\u0644\u064A \u0645\u0644\u062A\u064A \u0645\u064A\u062F\u064A\u0627\\Spot the Difference Game\\Spot the Difference Game\\UI\\PlayForm.cs",
+              "RelativeDocumentMoniker": "Spot the Difference Game\\UI\\PlayForm.cs",
+              "ToolTip": "C:\\Users\\USER\\\u0639\u0645\u0644\u064A \u0645\u0644\u062A\u064A \u0645\u064A\u062F\u064A\u0627\\Spot the Difference Game\\Spot the Difference Game\\UI\\PlayForm.cs",
+              "RelativeToolTip": "Spot the Difference Game\\UI\\PlayForm.cs",
+<<<<<<< HEAD
+              "ViewState": "AgIAAFAAAAAAAAAAAAASwFUAAAAMAAAAAAAAAA==",
+=======
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAlAAAAAAAAAA==",
+>>>>>>> c867f6c (finall)
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-20T20:19:51.241Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+<<<<<<< HEAD
+              "Title": "AudioPlayer.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\\u0639\u0645\u0644\u064A \u0645\u0644\u062A\u064A \u0645\u064A\u062F\u064A\u0627\\Spot the Difference Game\\Spot the Difference Game\\Audio\\AudioPlayer.cs",
+              "RelativeDocumentMoniker": "Spot the Difference Game\\Audio\\AudioPlayer.cs",
+              "ToolTip": "C:\\Users\\USER\\\u0639\u0645\u0644\u064A \u0645\u0644\u062A\u064A \u0645\u064A\u062F\u064A\u0627\\Spot the Difference Game\\Spot the Difference Game\\Audio\\AudioPlayer.cs",
+              "RelativeToolTip": "Spot the Difference Game\\Audio\\AudioPlayer.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAAAAQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-21T10:14:05.213Z",
+              "EditorCaption": ""
+=======
+              "Title": "PredefinedDifferences.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\\u0639\u0645\u0644\u064A \u0645\u0644\u062A\u064A \u0645\u064A\u062F\u064A\u0627\\Spot the Difference Game\\Spot the Difference Game\\Logic\\PredefinedDifferences.cs",
+              "RelativeDocumentMoniker": "Spot the Difference Game\\Logic\\PredefinedDifferences.cs",
+              "ToolTip": "C:\\Users\\USER\\\u0639\u0645\u0644\u064A \u0645\u0644\u062A\u064A \u0645\u064A\u062F\u064A\u0627\\Spot the Difference Game\\Spot the Difference Game\\Logic\\PredefinedDifferences.cs",
+              "RelativeToolTip": "Spot the Difference Game\\Logic\\PredefinedDifferences.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAqwAYAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-25T06:37:40.612Z"
+>>>>>>> c867f6c (finall)
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+<<<<<<< HEAD
+              "Title": "Start_Form.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\USER\\\u0639\u0645\u0644\u064A \u0645\u0644\u062A\u064A \u0645\u064A\u062F\u064A\u0627\\Spot the Difference Game\\Spot the Difference Game\\UI\\Start_Form.cs",
+              "RelativeDocumentMoniker": "Spot the Difference Game\\UI\\Start_Form.cs",
+              "ToolTip": "C:\\Users\\USER\\\u0639\u0645\u0644\u064A \u0645\u0644\u062A\u064A \u0645\u064A\u062F\u064A\u0627\\Spot the Difference Game\\Spot the Difference Game\\UI\\Start_Form.cs [Design]",
+              "RelativeToolTip": "Spot the Difference Game\\UI\\Start_Form.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-20T19:11:23.444Z"
+=======
+              "Title": "LevelImages.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\\u0639\u0645\u0644\u064A \u0645\u0644\u062A\u064A \u0645\u064A\u062F\u064A\u0627\\Spot the Difference Game\\Spot the Difference Game\\Logic\\LevelImages.cs",
+              "RelativeDocumentMoniker": "Spot the Difference Game\\Logic\\LevelImages.cs",
+              "ToolTip": "C:\\Users\\USER\\\u0639\u0645\u0644\u064A \u0645\u0644\u062A\u064A \u0645\u064A\u062F\u064A\u0627\\Spot the Difference Game\\Spot the Difference Game\\Logic\\LevelImages.cs",
+              "RelativeToolTip": "Spot the Difference Game\\Logic\\LevelImages.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-27T11:42:28.097Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "DifferencePair.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\\u0639\u0645\u0644\u064A \u0645\u0644\u062A\u064A \u0645\u064A\u062F\u064A\u0627\\Spot the Difference Game\\Spot the Difference Game\\Logic\\DifferencePair.cs",
+              "RelativeDocumentMoniker": "Spot the Difference Game\\Logic\\DifferencePair.cs",
+              "ToolTip": "C:\\Users\\USER\\\u0639\u0645\u0644\u064A \u0645\u0644\u062A\u064A \u0645\u064A\u062F\u064A\u0627\\Spot the Difference Game\\Spot the Difference Game\\Logic\\DifferencePair.cs",
+              "RelativeToolTip": "Spot the Difference Game\\Logic\\DifferencePair.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-22T20:53:06.137Z"
+>>>>>>> c867f6c (finall)
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+<<<<<<< HEAD
+=======
+              "Title": "DifferenceDetector.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\\u0639\u0645\u0644\u064A \u0645\u0644\u062A\u064A \u0645\u064A\u062F\u064A\u0627\\Spot the Difference Game\\Spot the Difference Game\\Logic\\DifferenceDetector.cs",
+              "RelativeDocumentMoniker": "Spot the Difference Game\\Logic\\DifferenceDetector.cs",
+              "ToolTip": "C:\\Users\\USER\\\u0639\u0645\u0644\u064A \u0645\u0644\u062A\u064A \u0645\u064A\u062F\u064A\u0627\\Spot the Difference Game\\Spot the Difference Game\\Logic\\DifferenceDetector.cs",
+              "RelativeToolTip": "Spot the Difference Game\\Logic\\DifferenceDetector.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAAACYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-29T07:33:29.473Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "AudioPlayer.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\\u0639\u0645\u0644\u064A \u0645\u0644\u062A\u064A \u0645\u064A\u062F\u064A\u0627\\Spot the Difference Game\\Spot the Difference Game\\Logic\\AudioPlayer.cs",
+              "RelativeDocumentMoniker": "Spot the Difference Game\\Logic\\AudioPlayer.cs",
+              "ToolTip": "C:\\Users\\USER\\\u0639\u0645\u0644\u064A \u0645\u0644\u062A\u064A \u0645\u064A\u062F\u064A\u0627\\Spot the Difference Game\\Spot the Difference Game\\Logic\\AudioPlayer.cs",
+              "RelativeToolTip": "Spot the Difference Game\\Logic\\AudioPlayer.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAiwBkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-29T09:36:29.912Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+>>>>>>> c867f6c (finall)
+              "Title": "ModeSelectionForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\USER\\\u0639\u0645\u0644\u064A \u0645\u0644\u062A\u064A \u0645\u064A\u062F\u064A\u0627\\Spot the Difference Game\\Spot the Difference Game\\UI\\ModeSelectionForm.cs",
+              "RelativeDocumentMoniker": "Spot the Difference Game\\UI\\ModeSelectionForm.cs",
+              "ToolTip": "C:\\Users\\USER\\\u0639\u0645\u0644\u064A \u0645\u0644\u062A\u064A \u0645\u064A\u062F\u064A\u0627\\Spot the Difference Game\\Spot the Difference Game\\UI\\ModeSelectionForm.cs [Design]",
+              "RelativeToolTip": "Spot the Difference Game\\UI\\ModeSelectionForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+<<<<<<< HEAD
+              "WhenOpened": "2025-05-20T20:20:28.528Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ModeSelectionForm.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\\u0639\u0645\u0644\u064A \u0645\u0644\u062A\u064A \u0645\u064A\u062F\u064A\u0627\\Spot the Difference Game\\Spot the Difference Game\\UI\\ModeSelectionForm.cs",
+              "RelativeDocumentMoniker": "Spot the Difference Game\\UI\\ModeSelectionForm.cs",
+              "ToolTip": "C:\\Users\\USER\\\u0639\u0645\u0644\u064A \u0645\u0644\u062A\u064A \u0645\u064A\u062F\u064A\u0627\\Spot the Difference Game\\Spot the Difference Game\\UI\\ModeSelectionForm.cs",
+              "RelativeToolTip": "Spot the Difference Game\\UI\\ModeSelectionForm.cs",
+              "ViewState": "AgIAAEkAAAAAAAAAAAAUwFAAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-20T20:14:59.766Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Spot the Difference Game.csproj",
+              "DocumentMoniker": "C:\\Users\\USER\\\u0639\u0645\u0644\u064A \u0645\u0644\u062A\u064A \u0645\u064A\u062F\u064A\u0627\\Spot the Difference Game\\Spot the Difference Game\\Spot the Difference Game.csproj",
+              "RelativeDocumentMoniker": "Spot the Difference Game\\Spot the Difference Game.csproj",
+              "ToolTip": "C:\\Users\\USER\\\u0639\u0645\u0644\u064A \u0645\u0644\u062A\u064A \u0645\u064A\u062F\u064A\u0627\\Spot the Difference Game\\Spot the Difference Game\\Spot the Difference Game.csproj",
+              "RelativeToolTip": "Spot the Difference Game\\Spot the Difference Game.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-05-20T18:43:22.121Z"
+=======
+              "WhenOpened": "2025-05-29T09:34:20.689Z"
+>>>>>>> c867f6c (finall)
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+<<<<<<< HEAD
+              "Title": "flowers-276014_1280.jpg - Bitmap [1280x814, 24 bit, JPG]",
+              "DocumentMoniker": "C:\\Users\\USER\\\u0639\u0645\u0644\u064A \u0645\u0644\u062A\u064A \u0645\u064A\u062F\u064A\u0627\\Spot the Difference Game\\Spot the Difference Game\\Images\\flowers-276014_1280.jpg",
+              "RelativeDocumentMoniker": "Spot the Difference Game\\Images\\flowers-276014_1280.jpg",
+              "ToolTip": "C:\\Users\\USER\\\u0639\u0645\u0644\u064A \u0645\u0644\u062A\u064A \u0645\u064A\u062F\u064A\u0627\\Spot the Difference Game\\Spot the Difference Game\\Images\\flowers-276014_1280.jpg - Bitmap [1280x814, 24 bit, JPG]",
+              "RelativeToolTip": "Spot the Difference Game\\Images\\flowers-276014_1280.jpg - Bitmap [1280x814, 24 bit, JPG]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001533|",
+              "WhenOpened": "2025-05-20T19:37:19.637Z",
+              "EditorCaption": " - Bitmap [1280x814, 24 bit, JPG]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Background.jpg - Bitmap [1366x768, 24 bit, JPG]",
+              "DocumentMoniker": "C:\\Users\\USER\\\u0639\u0645\u0644\u064A \u0645\u0644\u062A\u064A \u0645\u064A\u062F\u064A\u0627\\Spot the Difference Game\\Spot the Difference Game\\Images\\Background.jpg",
+              "RelativeDocumentMoniker": "Spot the Difference Game\\Images\\Background.jpg",
+              "ToolTip": "C:\\Users\\USER\\\u0639\u0645\u0644\u064A \u0645\u0644\u062A\u064A \u0645\u064A\u062F\u064A\u0627\\Spot the Difference Game\\Spot the Difference Game\\Images\\Background.jpg - Bitmap [1366x768, 24 bit, JPG]",
+              "RelativeToolTip": "Spot the Difference Game\\Images\\Background.jpg - Bitmap [1366x768, 24 bit, JPG]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001533|",
+              "WhenOpened": "2025-05-20T19:41:41.54Z",
+              "EditorCaption": " - Bitmap [1366x768, 24 bit, JPG]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\\u0639\u0645\u0644\u064A \u0645\u0644\u062A\u064A \u0645\u064A\u062F\u064A\u0627\\Spot the Difference Game\\Spot the Difference Game\\Program.cs",
+              "RelativeDocumentMoniker": "Spot the Difference Game\\Program.cs",
+              "ToolTip": "C:\\Users\\USER\\\u0639\u0645\u0644\u064A \u0645\u0644\u062A\u064A \u0645\u064A\u062F\u064A\u0627\\Spot the Difference Game\\Spot the Difference Game\\Program.cs",
+              "RelativeToolTip": "Spot the Difference Game\\Program.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAADwvw8AAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-20T19:03:37.786Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\USER\\\u0639\u0645\u0644\u064A \u0645\u0644\u062A\u064A \u0645\u064A\u062F\u064A\u0627\\Spot the Difference Game\\Spot the Difference Game\\Form1.cs",
+              "RelativeDocumentMoniker": "Spot the Difference Game\\Form1.cs",
+              "ToolTip": "C:\\Users\\USER\\\u0639\u0645\u0644\u064A \u0645\u0644\u062A\u064A \u0645\u064A\u062F\u064A\u0627\\Spot the Difference Game\\Spot the Difference Game\\Form1.cs [Design]",
+              "RelativeToolTip": "Spot the Difference Game\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-20T18:42:29.824Z"
+=======
+              "Title": "GameForm.resx",
+              "DocumentMoniker": "C:\\Users\\USER\\\u0639\u0645\u0644\u064A \u0645\u0644\u062A\u064A \u0645\u064A\u062F\u064A\u0627\\Spot the Difference Game\\Spot the Difference Game\\UI\\GameForm.resx",
+              "RelativeDocumentMoniker": "Spot the Difference Game\\UI\\GameForm.resx",
+              "ToolTip": "C:\\Users\\USER\\\u0639\u0645\u0644\u064A \u0645\u0644\u062A\u064A \u0645\u064A\u062F\u064A\u0627\\Spot the Difference Game\\Spot the Difference Game\\UI\\GameForm.resx",
+              "RelativeToolTip": "Spot the Difference Game\\UI\\GameForm.resx",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
+              "WhenOpened": "2025-05-29T09:32:38.413Z"
+>>>>>>> c867f6c (finall)
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

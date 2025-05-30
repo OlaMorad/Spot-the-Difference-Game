@@ -1,0 +1,182 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>net8.0-windows</TargetFramework>
+    <RootNamespace>Spot_the_Difference_Game</RootNamespace>
+    <Nullable>enable</Nullable>
+    <UseWindowsForms>true</UseWindowsForms>
+    <ImplicitUsings>enable</ImplicitUsings>
+  </PropertyGroup>
+
+  <ItemGroup>
+<<<<<<< HEAD
+    <Compile Remove="NewFolder1\**" />
+    <EmbeddedResource Remove="NewFolder1\**" />
+=======
+    <Compile Remove="Images\NewFolder\**" />
+    <Compile Remove="NewFolder1\**" />
+    <EmbeddedResource Remove="Images\NewFolder\**" />
+    <EmbeddedResource Remove="NewFolder1\**" />
+    <None Remove="Images\NewFolder\**" />
+>>>>>>> c867f6c (finall)
+    <None Remove="NewFolder1\**" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Remove="Audio\error.wav" />
+    <None Remove="Audio\failed.wav" />
+    <None Remove="Audio\success.wav" />
+<<<<<<< HEAD
+    <None Remove="Images\Background.jpg" />
+    <None Remove="Images\flowers-276014_1280.jpg" />
+    <None Remove="Images\image1.jpg" />
+    <None Remove="Images\image2.jpg" />
+    <None Remove="Images\image3.jpg" />
+    <None Remove="Images\image4.jpg" />
+    <None Remove="Images\image_5.jpg" />
+    <None Remove="Images\image_6.jpg" />
+=======
+    <None Remove="Audio\win1.wav" />
+    <None Remove="Audio\win2.wav" />
+    <None Remove="Audio\win3.wav" />
+    <None Remove="Images\Background.jpg" />
+    <None Remove="Images\flowers-276014_1280.jpg" />
+    <None Remove="Images\image1.jpg" />
+    <None Remove="Images\image10.jpg" />
+    <None Remove="Images\image2.jpg" />
+    <None Remove="Images\image3.jpg" />
+    <None Remove="Images\image4.jpg" />
+    <None Remove="Images\image7.jpg" />
+    <None Remove="Images\image8.jpg" />
+    <None Remove="Images\image9.jpg" />
+    <None Remove="Images\image_5.jpg" />
+    <None Remove="Images\image_6.jpg" />
+    <None Remove="Images\img1.jpg" />
+    <None Remove="Images\img2.jpg" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Content Include="Audio\win1.wav">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Audio\win2.wav">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Audio\win3.wav">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Images\image10.jpg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+>>>>>>> c867f6c (finall)
+  </ItemGroup>
+
+  <ItemGroup>
+    <Content Include="Images\image3.jpg">
+<<<<<<< HEAD
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Images\image4.jpg">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Images\image_5.jpg">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Images\image_6.jpg">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+=======
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Images\image4.jpg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Images\image7.jpg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Images\image8.jpg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Images\image9.jpg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Images\image_5.jpg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Images\image_6.jpg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Images\img1.jpg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Images\img2.jpg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+>>>>>>> c867f6c (finall)
+    </Content>
+  </ItemGroup>
+
+  <ItemGroup>
+<<<<<<< HEAD
+    <PackageReference Include="Emgu.CV" Version="4.10.0.5680" />
+    <PackageReference Include="MathNet.Numerics" Version="5.0.0" />
+=======
+>>>>>>> c867f6c (finall)
+    <PackageReference Include="NAudio" Version="2.2.1" />
+  </ItemGroup>
+
+  <ItemGroup>
+<<<<<<< HEAD
+    <Folder Include="Images\NewFolder\" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Content Include="Audio\error.wav">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Audio\failed.wav">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Audio\success.wav">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Images\Background.jpg">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Images\flowers-276014_1280.jpg">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+=======
+    <Content Include="Audio\error.wav">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Audio\failed.wav">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Audio\success.wav">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Images\Background.jpg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Images\flowers-276014_1280.jpg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+>>>>>>> c867f6c (finall)
+    </Content>
+  </ItemGroup>
+
+  <ItemGroup>
+    <Content Include="Images\image1.jpg">
+<<<<<<< HEAD
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Images\image2.jpg">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+=======
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Images\image2.jpg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+>>>>>>> c867f6c (finall)
+    </Content>
+  </ItemGroup>
+
+</Project>

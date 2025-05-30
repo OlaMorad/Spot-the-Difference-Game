@@ -1,0 +1,65 @@
+C:\Users\USER\عملي ملتي ميديا\Spot the Difference Game\Spot the Difference Game\bin\Debug\net8.0-windows\Spot the Difference Game.exe
+C:\Users\USER\عملي ملتي ميديا\Spot the Difference Game\Spot the Difference Game\bin\Debug\net8.0-windows\Spot the Difference Game.deps.json
+C:\Users\USER\عملي ملتي ميديا\Spot the Difference Game\Spot the Difference Game\bin\Debug\net8.0-windows\Spot the Difference Game.runtimeconfig.json
+C:\Users\USER\عملي ملتي ميديا\Spot the Difference Game\Spot the Difference Game\bin\Debug\net8.0-windows\Spot the Difference Game.dll
+C:\Users\USER\عملي ملتي ميديا\Spot the Difference Game\Spot the Difference Game\bin\Debug\net8.0-windows\Spot the Difference Game.pdb
+<<<<<<< HEAD
+C:\Users\USER\عملي ملتي ميديا\Spot the Difference Game\Spot the Difference Game\bin\Debug\net8.0-windows\Emgu.CV.dll
+C:\Users\USER\عملي ملتي ميديا\Spot the Difference Game\Spot the Difference Game\bin\Debug\net8.0-windows\MathNet.Numerics.dll
+=======
+>>>>>>> c867f6c (finall)
+C:\Users\USER\عملي ملتي ميديا\Spot the Difference Game\Spot the Difference Game\bin\Debug\net8.0-windows\NAudio.dll
+C:\Users\USER\عملي ملتي ميديا\Spot the Difference Game\Spot the Difference Game\bin\Debug\net8.0-windows\NAudio.Asio.dll
+C:\Users\USER\عملي ملتي ميديا\Spot the Difference Game\Spot the Difference Game\bin\Debug\net8.0-windows\NAudio.Core.dll
+C:\Users\USER\عملي ملتي ميديا\Spot the Difference Game\Spot the Difference Game\bin\Debug\net8.0-windows\NAudio.Midi.dll
+C:\Users\USER\عملي ملتي ميديا\Spot the Difference Game\Spot the Difference Game\bin\Debug\net8.0-windows\NAudio.Wasapi.dll
+C:\Users\USER\عملي ملتي ميديا\Spot the Difference Game\Spot the Difference Game\bin\Debug\net8.0-windows\NAudio.WinForms.dll
+C:\Users\USER\عملي ملتي ميديا\Spot the Difference Game\Spot the Difference Game\bin\Debug\net8.0-windows\NAudio.WinMM.dll
+<<<<<<< HEAD
+C:\Users\USER\عملي ملتي ميديا\Spot the Difference Game\Spot the Difference Game\bin\Debug\net8.0-windows\System.IO.Pipelines.dll
+C:\Users\USER\عملي ملتي ميديا\Spot the Difference Game\Spot the Difference Game\bin\Debug\net8.0-windows\System.Text.Encodings.Web.dll
+C:\Users\USER\عملي ملتي ميديا\Spot the Difference Game\Spot the Difference Game\bin\Debug\net8.0-windows\System.Text.Json.dll
+C:\Users\USER\عملي ملتي ميديا\Spot the Difference Game\Spot the Difference Game\bin\Debug\net8.0-windows\runtimes\browser\lib\net8.0\System.Text.Encodings.Web.dll
+=======
+>>>>>>> c867f6c (finall)
+C:\Users\USER\عملي ملتي ميديا\Spot the Difference Game\Spot the Difference Game\obj\Debug\net8.0-windows\Spot the Difference Game.csproj.AssemblyReference.cache
+C:\Users\USER\عملي ملتي ميديا\Spot the Difference Game\Spot the Difference Game\obj\Debug\net8.0-windows\Spot_the_Difference_Game.Form1.resources
+C:\Users\USER\عملي ملتي ميديا\Spot the Difference Game\Spot the Difference Game\obj\Debug\net8.0-windows\Spot the Difference Game.csproj.GenerateResource.cache
+C:\Users\USER\عملي ملتي ميديا\Spot the Difference Game\Spot the Difference Game\obj\Debug\net8.0-windows\Spot the Difference Game.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\عملي ملتي ميديا\Spot the Difference Game\Spot the Difference Game\obj\Debug\net8.0-windows\Spot the Difference Game.AssemblyInfoInputs.cache
+C:\Users\USER\عملي ملتي ميديا\Spot the Difference Game\Spot the Difference Game\obj\Debug\net8.0-windows\Spot the Difference Game.AssemblyInfo.cs
+C:\Users\USER\عملي ملتي ميديا\Spot the Difference Game\Spot the Difference Game\obj\Debug\net8.0-windows\Spot the Difference Game.csproj.CoreCompileInputs.cache
+C:\Users\USER\عملي ملتي ميديا\Spot the Difference Game\Spot the Difference Game\obj\Debug\net8.0-windows\Spot the.7FD0043B.Up2Date
+C:\Users\USER\عملي ملتي ميديا\Spot the Difference Game\Spot the Difference Game\obj\Debug\net8.0-windows\Spot the Difference Game.dll
+C:\Users\USER\عملي ملتي ميديا\Spot the Difference Game\Spot the Difference Game\obj\Debug\net8.0-windows\refint\Spot the Difference Game.dll
+C:\Users\USER\عملي ملتي ميديا\Spot the Difference Game\Spot the Difference Game\obj\Debug\net8.0-windows\Spot the Difference Game.pdb
+C:\Users\USER\عملي ملتي ميديا\Spot the Difference Game\Spot the Difference Game\obj\Debug\net8.0-windows\Spot the Difference Game.genruntimeconfig.cache
+C:\Users\USER\عملي ملتي ميديا\Spot the Difference Game\Spot the Difference Game\obj\Debug\net8.0-windows\ref\Spot the Difference Game.dll
+C:\Users\USER\عملي ملتي ميديا\Spot the Difference Game\Spot the Difference Game\obj\Debug\net8.0-windows\Spot_the_Difference_Game.UI.Start_Form.resources
+C:\Users\USER\عملي ملتي ميديا\Spot the Difference Game\Spot the Difference Game\bin\Debug\net8.0-windows\Images\flowers-276014_1280.jpg
+C:\Users\USER\عملي ملتي ميديا\Spot the Difference Game\Spot the Difference Game\bin\Debug\net8.0-windows\Images\Background.jpg
+C:\Users\USER\عملي ملتي ميديا\Spot the Difference Game\Spot the Difference Game\bin\Debug\net8.0-windows\Images\image1.jpg
+C:\Users\USER\عملي ملتي ميديا\Spot the Difference Game\Spot the Difference Game\bin\Debug\net8.0-windows\Images\image2.jpg
+C:\Users\USER\عملي ملتي ميديا\Spot the Difference Game\Spot the Difference Game\bin\Debug\net8.0-windows\Audio\error.wav
+C:\Users\USER\عملي ملتي ميديا\Spot the Difference Game\Spot the Difference Game\bin\Debug\net8.0-windows\Audio\failed.wav
+C:\Users\USER\عملي ملتي ميديا\Spot the Difference Game\Spot the Difference Game\bin\Debug\net8.0-windows\Audio\success.wav
+C:\Users\USER\عملي ملتي ميديا\Spot the Difference Game\Spot the Difference Game\obj\Debug\net8.0-windows\Spot the Difference Game.sourcelink.json
+C:\Users\USER\عملي ملتي ميديا\Spot the Difference Game\Spot the Difference Game\obj\Debug\net8.0-windows\Spot_the_Difference_Game.UI.PlayForm.resources
+C:\Users\USER\عملي ملتي ميديا\Spot the Difference Game\Spot the Difference Game\obj\Debug\net8.0-windows\Spot_the_Difference_Game.UI.GameForm.resources
+C:\Users\USER\عملي ملتي ميديا\Spot the Difference Game\Spot the Difference Game\bin\Debug\net8.0-windows\Images\image3.jpg
+C:\Users\USER\عملي ملتي ميديا\Spot the Difference Game\Spot the Difference Game\bin\Debug\net8.0-windows\Images\image4.jpg
+C:\Users\USER\عملي ملتي ميديا\Spot the Difference Game\Spot the Difference Game\bin\Debug\net8.0-windows\Images\image_5.jpg
+C:\Users\USER\عملي ملتي ميديا\Spot the Difference Game\Spot the Difference Game\bin\Debug\net8.0-windows\Images\image_6.jpg
+<<<<<<< HEAD
+=======
+C:\Users\USER\عملي ملتي ميديا\Spot the Difference Game\Spot the Difference Game\obj\Debug\net8.0-windows\Spot_the_Difference_Game.UI.ModeSelectionForm.resources
+C:\Users\USER\عملي ملتي ميديا\Spot the Difference Game\Spot the Difference Game\bin\Debug\net8.0-windows\Images\image7.jpg
+C:\Users\USER\عملي ملتي ميديا\Spot the Difference Game\Spot the Difference Game\bin\Debug\net8.0-windows\Images\image8.jpg
+C:\Users\USER\عملي ملتي ميديا\Spot the Difference Game\Spot the Difference Game\bin\Debug\net8.0-windows\Images\img1.jpg
+C:\Users\USER\عملي ملتي ميديا\Spot the Difference Game\Spot the Difference Game\bin\Debug\net8.0-windows\Images\img2.jpg
+C:\Users\USER\عملي ملتي ميديا\Spot the Difference Game\Spot the Difference Game\bin\Debug\net8.0-windows\Audio\win1.wav
+C:\Users\USER\عملي ملتي ميديا\Spot the Difference Game\Spot the Difference Game\bin\Debug\net8.0-windows\Audio\win2.wav
+C:\Users\USER\عملي ملتي ميديا\Spot the Difference Game\Spot the Difference Game\bin\Debug\net8.0-windows\Audio\win3.wav
+C:\Users\USER\عملي ملتي ميديا\Spot the Difference Game\Spot the Difference Game\bin\Debug\net8.0-windows\Images\image10.jpg
+C:\Users\USER\عملي ملتي ميديا\Spot the Difference Game\Spot the Difference Game\bin\Debug\net8.0-windows\Images\image9.jpg
+>>>>>>> c867f6c (finall)
